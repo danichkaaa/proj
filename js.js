@@ -22,6 +22,6 @@ document.addEventListener("DOMContentLoaded", function() {
     duplicateImages();
   
     // Вызываем функцию при изменении размеров окна
-    window.addEventListener("resize", duplicateImages);выаываываыа
+    window.addEventListener("resize", duplicateImages);выаываываыаd
   });
   
